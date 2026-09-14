@@ -1,7 +1,7 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
-# Date:
-# Reg. No.:
+# Date: 07.09.2026
+# Reg. No.: 212224220095
 
 # Aim:
 To demonstrate the ability of text-to-Video generation tools to reproduce an existing Video by crafting precise prompts. The goal is to identify key elements within the Video and use these details to generate an Video as close as possible to the original.
@@ -48,6 +48,21 @@ Tools/LLMs for Video Generation:
 2.	The Final Generated Video: The Video created using your refined prompt.
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
+Prompt Used
+
+Basic Prompt:
+“A beautiful landscape with mountains and a river.”
+
+Refined Prompt:
+“A beautiful mountain landscape during sunset, with purple mountains, a calm river reflecting the golden sky, green trees along the riverbank, soft clouds, warm lighting, and a peaceful atmosphere.”
+
+Final Prompt:
+“A cinematic and realistic mountain landscape during sunset. Purple mountains are visible in the background, with a calm river reflecting the golden-orange sky. Green trees move gently in the breeze. The camera slowly moves forward toward the river, with natural lighting, soft clouds, realistic textures, smooth motion, and a peaceful atmosphere.”
+## OUTPUT :
+
+https://github.com/user-attachments/assets/e6612ef9-378c-4e8f-bf2e-f9e2a553ee1d
+
+
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
